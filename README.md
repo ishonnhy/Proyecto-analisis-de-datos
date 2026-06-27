@@ -1,21 +1,21 @@
-# Portafolio de Análisis de Datos 📊
+# Data Analytics Portfolio 📊
 
-Este repositorio contiene una colección de proyectos prácticos de Análisis de Datos desarrollados en Python, con un enfoque en resolver problemas operativos y optimizar decisiones de negocio.
+This repository contains a collection of hands-on Data Analytics projects developed in Python, focusing on solving operational problems and optimizing business decisions.
 
-## Proyectos Incluidos:
+## Included Projects:
 
-* **Instacart:** Análisis de patrones de compra y entrega de comestibles para entender el comportamiento del consumidor.
-* **Industria de Videojuegos:** Análisis exploratorio para identificar patrones de éxito comercial en plataformas de gaming y guiar estrategias de marketing.
-* **Megaline:** Análisis estadístico para determinar la rentabilidad de las tarifas de telecomunicaciones (Surf vs. Ultimate).
-* **Mercado de Vehículos Usados:** Limpieza de datos (QA) y análisis exploratorio para descubrir los factores clave que determinan la fijación de precios en el mercado secundario.
-* **Taxis en Chicago:** Ejecución de pruebas de hipótesis estadísticas (A/B testing) para evaluar el impacto del clima en los tiempos de traslado y la logística operativa.
+* **Instacart:** Analysis of grocery shopping and delivery patterns to understand consumer behavior.
+* **Video Game Industry:** Exploratory data analysis (EDA) to identify commercial success patterns in gaming platforms and guide marketing strategies.
+* **Megaline:** Statistical analysis to determine the profitability of telecom plans (Surf vs. Ultimate).
+* **Used Car Market Pricing:** Data cleaning (QA) and exploratory analysis to uncover key factors driving pricing strategies in the secondary market.
+* **Chicago Taxis:** Execution of statistical hypothesis testing (A/B testing) to evaluate the impact of weather on travel times and operational logistics.
 
-## Herramientas Utilizadas:
+## Tools & Technologies:
 * Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
-* Pruebas de Hipótesis y Control de Calidad de Datos (QA)
+* Statistical Hypothesis Testing & Data Quality Assurance (QA)
 * Jupyter Notebooks
 
-## Contacto ✉️
-¿Tienes un reto de datos o una oportunidad laboral? Conectemos:
+## Contact ✉️
+Got a data challenge or a job opportunity? Let's connect:
 * **LinkedIn:** [Jonathan Arrona]https://www.linkedin.com/in/jonathanarrona/
 * **Email:** jonathandj.arrona.rivera@gmail.com
