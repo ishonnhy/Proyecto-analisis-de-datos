@@ -7,7 +7,7 @@ Este repositorio contiene una colección de proyectos prácticos de Análisis de
 * **[Instacart](./Analisis-de-Instacart/):** Análisis de patrones de compra y entrega de comestibles para entender el comportamiento del consumidor.
 * **[Industria de Videojuegos](./Marketing-Videojuegos/):** Análisis exploratorio para identificar patrones de éxito comercial en plataformas de juegos y guiar estrategias de marketing.
 * **[Megaline](./Analisis-de-Megaline/):** Análisis estadístico para determinar la rentabilidad de las tarifas de telecomunicaciones (Surf vs. Ultimate).
-* **[Mercado de Autos Usados](https://github.com/JDJArronaRivera/Proyecto-analisis-de-datos/blob/main/Mercado_de_Autos_Usados):** Limpieza de datos (QA) y análisis exploratorio para descubrir los factores clave que determinan la fijación de precios en el mercado secundario.
+* **[Mercado de Autos Usados](https://github.com/JDJArronaRivera/Proyecto-analisis-de-datos/blob/main/Autos_Usados):** Limpieza de datos (QA) y análisis exploratorio para descubrir los factores clave que determinan la fijación de precios en el mercado secundario.
 * **[Taxis en Chicago](./Viajes-en-taxi-Chicago/):** Ejecución de pruebas de hipótesis estadísticas (A/B testing) para evaluar el impacto del clima en los tiempos de traslado y la logística operativa.
 
 ## Herramientas Utilizadas:
