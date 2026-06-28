@@ -11,7 +11,7 @@ This repository contains a collection of hands-on Data Analytics projects develo
 * **[Instacart](./Analisis-de-Instacart/):** Analysis of grocery shopping and delivery patterns to understand consumer behavior.
 * **[Video Game Industry](./Marketing-Videojuegos/):** Exploratory data analysis (EDA) to identify commercial success patterns in gaming platforms and guide marketing strategies.
 * **[Megaline](./Analisis-de-Megaline/):** Statistical analysis to determine the profitability of telecom plans (Surf vs. Ultimate).
-* **[Used Car Market Pricing](./Mercado-de-Vehiculos-Usados/):** Data cleaning (QA) and exploratory analysis to uncover key factors driving pricing strategies in the secondary market.
+* **[Used Car Market Pricing](https://github.com/JDJArronaRivera/Proyecto-analisis-de-datos/blob/main/Mercado-de-Autos-Usados):** Data cleaning (QA) and exploratory analysis to uncover key factors driving pricing strategies in the secondary market.
 * **[Chicago Taxis](./Viajes-en-taxi-Chicago/):** Execution of statistical hypothesis testing (A/B testing) to evaluate the impact of weather on travel times and operational logistics.
 
 ## Tools & Technologies:
